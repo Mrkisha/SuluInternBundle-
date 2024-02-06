@@ -1,0 +1,13 @@
+{
+    "name": "mrkisha/sulu-interns-bundle",
+    "type": "bundle",
+    "require": {
+        "symfony/http-kernel": "^6.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mrkisha\\SuluInternsBundle\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
